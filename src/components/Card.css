@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 360px;
+    width: 270px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 200px;
+    position: relative;
+    top: 50px;
+}
+.icon {
+    font-size: 25px;
+    position: relative;
+    right: 70px;
+    color: gray;
+}
+button {
+    padding: 5px;
+    border-radius: 20px;
+    position: relative;
+    width: 200px;
+    margin-left: 40px;
+    right: 50px;
+    border: 2px solid rgb(237, 232, 232);
+}
+.img {
+    height: 190px;
+    width: 250px;
+    /* background-image: url(https://mini-io-api.texnomart.uz/catalog/product/3568/356861/196136/5b12651d-1392-4b9e-b543-c0d7d3838c5d.webp); */
+    background-size: cover;
+}
+.icon2 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.box {
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    border: 2px solid rgb(232, 232, 48);
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    font-size: 20px;
+}
+h2 {
+    margin-left: 8px;
+}
+p {
+    position: relative;
+    right: 15px;
+}
